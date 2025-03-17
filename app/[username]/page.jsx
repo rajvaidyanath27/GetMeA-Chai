@@ -40,9 +40,9 @@ const Username = ({ params }) => {
       </div>
 
       {/* Payment Section */}
-      <div className="payment flex gap-3 w-[60%] ml-40 mt-10 ">
+      <div className="payment flex gap-3 w-[60%]  ml-40 mt-10 ">
         {/* Supporters List */}
-        <div className="supporters w-1/2 bg-slate-900 rounded-lg text-white p-6">
+        <div className="supporters w-1/2  bg-slate-900 rounded-lg text-white p-6">
           <h2 className="text-2xl font-bold my-5">Supporters</h2>
           <ul className="mx-5 text-lg">
             <li className="my-2">
